@@ -1,5 +1,12 @@
 # 级联 stacking 森林
 
+# 依赖 ： Python 3.6 numpy scikit-learn
+
+# 程序功能说明 ： 
+
+* 基学习器 和 stacking 学习器的 训练 测试 验证 自动化模板 
+* stacking 支持任意层数的级联
+
 # 模板支持 
 * 标准模板 ： 支持 scikit-learn style 的算法部分 包含 SVM LR NB RF 等
 * 额外模板 ： 支持 xgboost 未来会添加 lightgbm fm 等算法 
