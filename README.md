@@ -1,6 +1,6 @@
 # 级联 stacking 森林
 
-# 依赖 ： Python 3.6 numpy scikit-learn
+## 依赖 ： Python 3.6 numpy scikit-learn
 
 # 程序功能说明 ： 
 
